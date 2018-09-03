@@ -1,0 +1,11 @@
+loginTitle {
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    font: caption;
+    font-size: 24px;
+}
+
+loginBackgroud {
+    background-color: aquamarine;
+}
